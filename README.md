@@ -5,6 +5,7 @@
 - [ ] Destructuring
 - [ ] For ...of Loop
 - [ ] Spread and Rest Operators
+- [ ] Arrow Functions
 - [ ] Symbols
 - [ ] Iteration and Iterable Protocols
 - [ ] Sets
@@ -15,3 +16,6 @@
 - [ ] Proxies
 - [ ] Generators
 - [ ] Iterators
+- [ ] class
+- [ ] super
+- [ ] extends
