@@ -24,8 +24,8 @@
 - [ ] Generators
 - [ ] Unicode
 - [ ] Iterators
-- [ ] Modles and Module Loaders
-- [ ] Math + Number + String + Object APIs
+- [ ] Modules and Module Loaders
+- [ ] Math, Number, String, Object APIs
 - [ ] Binary and Octal Literals
 - [ ] Reflect API
 - [ ] Tail Calls
